@@ -1,0 +1,20 @@
+[
+  {
+    "index": 0,
+    "name": "NVIDIA H100 80GB HBM3",
+    "status": "OK",
+    "issues": []
+  },
+  {
+    "index": 1,
+    "name": "NVIDIA H100 80GB HBM3",
+    "status": "WARN",
+    "issues": ["temperature 84C (warning)"]
+  },
+  {
+    "index": 2,
+    "name": "NVIDIA H100 80GB HBM3",
+    "status": "CRIT",
+    "issues": ["2 uncorrected ECC errors"]
+  }
+]
